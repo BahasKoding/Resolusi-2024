@@ -4,5 +4,6 @@ membuat detail lorem ipsum wakoawk
 
 menambahkan detail 
 
+fitur-kedua
 membuat commit kedua di fitur-kedua
 membuat commit kesatu di fitur-kedua
