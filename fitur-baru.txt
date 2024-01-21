@@ -1,2 +1,5 @@
 membuat fitur eksperimen sederhana menggunakan php dan javascript
 membuat detail lorem ipsum wakoawk
+
+
+menambahkan detail 
